@@ -1,6 +1,5 @@
-
 void setup()
 {
-	//your variable declarations here
+	Farm farm = new Farm();
+	farm.getSounds();
 }
-
